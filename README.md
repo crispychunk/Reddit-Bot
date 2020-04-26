@@ -15,6 +15,6 @@ X minute(s)
 
 
 Example:
- !remindme 1 hour "Reminder for XXX comment"
+ !remindme 1 hour "Reminder for XXX comment" or
  !remindme 3 months "Check how long this post age"
  
