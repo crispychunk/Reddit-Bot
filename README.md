@@ -6,12 +6,12 @@ call word: !remindme
 syntax : !remindme TIME "message"
 
 TIME SYNTAX and example:
-# is any number
+? is any number
 
-# hour(s)
-# month(s)
-# day(s)
-# minute(s)
+? hour(s)
+? month(s)
+? day(s)
+? minute(s)
 
 
 Example:
